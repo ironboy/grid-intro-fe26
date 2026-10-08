@@ -14,3 +14,9 @@
 .other-month {
   color: #aaa;
 }
+
+.calender>.weekday {
+  aspect-ratio: auto;
+  font-weight: bold;
+  text-align: center;
+}
